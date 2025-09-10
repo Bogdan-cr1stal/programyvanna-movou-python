@@ -13,4 +13,5 @@ elif a == b:
 else:
     X = (a**3 - 5) / a
 
-print(f"Результат: X =", X)
+print("Результат: X =", X)
+
